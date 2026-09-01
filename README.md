@@ -11,7 +11,7 @@ The application loads data from a website, splits the content into chunks, creat
 
 ## Application Screenshot
 
-![RAG Chatbot](UI.jpeg)
+![RAG Chatbot](UI .jpeg)
 ## Features
 
 - Website Data Ingestion
