@@ -7,6 +7,11 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot that answers ques
 
 The application loads data from a website, splits the content into chunks, creates embeddings, stores them in a vector database, retrieves relevant information, and uses the Gemma 2B model running locally through Ollama to generate answers.
 
+# Website RAG Chatbot
+
+## Application Screenshot
+
+![RAG Chatbot](UI.jpeg)
 ## Features
 
 - Website Data Ingestion
